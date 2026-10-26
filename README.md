@@ -1,5 +1,8 @@
 # MyStock – Home Inventory Manager
 
+**This project was developed as the final project for the "Java" course at Alfatraining.
+**
+
 MyStock is a desktop application for managing your household food supply.
 It keeps track of what is stored where (fridge, freezer, pantry, cupboard), highlights products
 that are about to expire, and comes with a simple shopping list.
